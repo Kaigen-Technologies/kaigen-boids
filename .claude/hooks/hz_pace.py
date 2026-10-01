@@ -1,0 +1,1 @@
+../../hz/.claude/hooks/hz_pace.py

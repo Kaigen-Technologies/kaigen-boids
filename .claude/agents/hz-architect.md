@@ -1,0 +1,1 @@
+../../hz/.claude/agents/hz-architect.md

@@ -1,0 +1,1 @@
+../../hz/.claude/hooks/_dispatch.py
