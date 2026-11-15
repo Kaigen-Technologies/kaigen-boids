@@ -22,3 +22,8 @@ hz/hzbuild wasm --release run    # WebAssembly build, served at http://localhost
 ```
 
 Hold the right mouse button to look around and fly with W A S D. The buttons at the bottom add or remove 5,000 fish.
+
+## License
+
+This project's code and content are MIT licensed (see [LICENSE](LICENSE)), with third-party files under their own licences. The [Kaigen engine](https://kaigen3d.com) it builds on is licensed under the
+[Kaigen Software Licence Agreement](https://kaigen3d.com/licence). [NOTICE.md](NOTICE.md) lists what the MIT License does not cover.

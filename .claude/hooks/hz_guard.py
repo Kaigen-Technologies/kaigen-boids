@@ -1,1 +1,0 @@
-../../hz/.claude/hooks/hz_guard.py

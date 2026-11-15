@@ -1,1 +1,0 @@
-../../hz/.claude/hooks/test_bash_guard.py

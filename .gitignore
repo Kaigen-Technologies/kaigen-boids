@@ -14,3 +14,8 @@ hz
 *.log
 *.pdb
 .certs/
+
+# machine-local agent config, written by the engine
+.claude/
+.agents/
+.codex/

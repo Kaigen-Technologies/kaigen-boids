@@ -1,1 +1,0 @@
-../../hz/.claude/agents/hz-investigator.md

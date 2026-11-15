@@ -1,1 +1,0 @@
-../../hz/.claude/hooks/write_first.py

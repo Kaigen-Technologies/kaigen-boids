@@ -1,1 +1,0 @@
-../../hz/.claude/hooks/codex_sync.py
